@@ -3,6 +3,6 @@ This report explores the various challenges and practices involved in deploying 
 It emphasizes the importance of a holistic approach that balances technical excellence with ethical considerations. 
 Moreover, the report also provides a deeper understanding of the complexities involved in developing robust, scalable, and secure ML systems, providing a foundation for future research and innovation in ML deployment practices.
 
-
+![Report Image](Machine_Learning_Systems_in_Industry__Challenges_and_Practices.pdf)
 [Click here to download the report](Machine_Learning_Systems_in_Industry__Challenges_and_Practices.pdf)
 
